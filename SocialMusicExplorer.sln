@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.28010.2016
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SocialMusicExplorer.App", "SocialMusicExplorer.App\SocialMusicExplorer.App.csproj", "{15762AD9-383E-45D8-8494-ADB6C19E9E50}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SocialMusicExplorer.Models", "SocialMusicExplorer.Models\SocialMusicExplorer.Models.csproj", "{BCC85265-07EC-4BF2-AEA7-526D2CABC7F2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{15762AD9-383E-45D8-8494-ADB6C19E9E50}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{15762AD9-383E-45D8-8494-ADB6C19E9E50}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{15762AD9-383E-45D8-8494-ADB6C19E9E50}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BCC85265-07EC-4BF2-AEA7-526D2CABC7F2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BCC85265-07EC-4BF2-AEA7-526D2CABC7F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BCC85265-07EC-4BF2-AEA7-526D2CABC7F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BCC85265-07EC-4BF2-AEA7-526D2CABC7F2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
