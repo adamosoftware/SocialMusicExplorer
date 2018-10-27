@@ -51,6 +51,14 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Album.cs" />
+    <Compile Include="Artist.cs" />
+    <Compile Include="ArtistLabel.cs" />
+    <Compile Include="BaseTable.cs" />
+    <Compile Include="Label.cs" />
+    <Compile Include="Song.cs" />
+    <Compile Include="SongLink.cs" />
+    <Compile Include="SongLinkLabel.cs" />
     <Compile Include="UserProfile.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
