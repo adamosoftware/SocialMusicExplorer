@@ -11,5 +11,7 @@ namespace SocialMusicExplorer.Models
 		[MaxLength(100)]
 		[Required]
 		public string Title { get; set; }		
+
+		public int TrackNumber { get; set; }
 	}
 }
